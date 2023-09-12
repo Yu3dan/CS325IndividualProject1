@@ -33,7 +33,7 @@ conda activate my_yaml_env
 Once everything is set, the syntax to use this program is:
 
 ```
-python project1.py (URL)
+python IDProject1.py (URL)
 ```
 
 The output of this project should be a text file where all the source code of the URL you provided is neatly written to a text file (output.txt).
