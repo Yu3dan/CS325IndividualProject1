@@ -36,7 +36,7 @@ Once everything is set, the syntax to use this program is:
 python IDProject1.py (URL)
 ```
 
-The output of this project should be a text file where all the source code of the URL you provided is neatly written to a text file (output.txt).
+The output of this project should be a text file where all the source code of the URL you provided is written to a text file (output.txt).
 The output.txt file included here is my output using the Reddit URL https://www.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/. 
 
 My command would look like this:
