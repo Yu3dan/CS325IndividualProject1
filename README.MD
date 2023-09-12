@@ -45,4 +45,4 @@ My command would look like this:
 python IDProject1.py https://www.reddit.com/r/OnePiece/comments/16e71cy/how_close_is_zoro/
 ```
 
-If ran correctly, you should see your updated output.txt file in the same folder with all the new data of the Reddit post you provided.
+If ran correctly, you should see your updated output.txt file in the same folder with all the new data of the Reddit post or other URL you provided.
