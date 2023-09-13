@@ -21,7 +21,7 @@ conda deactivate
 The command to create the new environment is:
 
 ```
-conda create --name my_yaml_env --file requirement.yaml
+conda create --name my_yaml_env --file requirements.yaml
 ```
 
 My_yaml_env would be the name of the new environment in that instance (You may use any name you would like to). Next, activate the new environment with the commmand:
